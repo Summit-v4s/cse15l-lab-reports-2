@@ -45,4 +45,5 @@ reversed: Created new array 'newArray' to store the reversed elements and update
 averageWithoutLowest: Added varaible 'count' to measure the number of elements that are being used for average calculation. Also, updated the loop to only add elements not equal to the lowest value, and increment 'count' afterwards.
 
 **Part 3**
+<br>
 In lab 2&3, I've learned how codes for running servers work, and how I can create my own local server using functions in java. I've always wondered how web servers are created from scratch, and this gave me the very basic information on how servers run.
